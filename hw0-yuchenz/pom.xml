@@ -4,8 +4,8 @@
 	<artifactId>hw0-yuchenz</artifactId>
 	<version>0.0.1</version>
 	<scm>
-  	<developerConnection>scm:git:git@github.com/yuchenz-cmu/hw0-yuchenz.git</developerConnection>
-  	<connection>scm:git:git@github.com/yuchenz-cmu/hw0-yuchenz.git</connection>
+  	<developerConnection>scm:git:git://github.com/yuchenz-cmu/hw0-yuchenz.git</developerConnection>
+  	<connection>scm:git:git://github.com/yuchenz-cmu/hw0-yuchenz.git</connection>
   </scm>
   <repositories><repository>
   	<id>deployment</id>
